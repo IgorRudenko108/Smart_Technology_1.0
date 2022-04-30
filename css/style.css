@@ -3276,8 +3276,8 @@ footer .menu__body {
   .intro__body {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
 
   .intro__content {
@@ -3286,7 +3286,7 @@ footer .menu__body {
     -webkit-box-flex: 0;
         -ms-flex: 0 1 100%;
             flex: 0 1 100%;
-    padding-right: 0;
+            padding-right: 0;
   }
 
   .intro__content-bottom {
